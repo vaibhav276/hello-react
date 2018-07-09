@@ -2,7 +2,7 @@ const webpack = require('webpack');
 
 module.exports = {
    mode: 'development',
-   entry: './app.ts',
+   entry: './app.tsx',
    output: {
       filename: 'bundle.js'
    },

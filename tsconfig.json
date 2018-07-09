@@ -1,9 +1,10 @@
 {
    "compilerOptions": {
       "module": "commonjs",
-      "sourceMap": true
+      "sourceMap": true,
+      "jsx": "react"
    },
    "files": [
-      "app.ts"
+      "app.tsx"
    ]
 }
