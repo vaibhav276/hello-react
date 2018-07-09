@@ -1,5 +1,5 @@
 ## Setup
-`npm install && npm install --only=dev`
+`npm install`
 
 ## Run
 `npm start`
