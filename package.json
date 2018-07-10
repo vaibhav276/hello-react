@@ -1,13 +1,13 @@
 {
-   "name": "hello-react",
+   "name": "ts-webpack-react-template",
    "version": "0.0.1",
-   "main": "app.ts",
+   "main": "app.tsx",
    "scripts": {
       "start": "node_modules/.bin/webpack --watch",
       "test": "echo \"Error: no test specified\" && exit 1"
    },
    "author": "",
-   "license": "MIT",
+   "license": "",
    "devDependencies": {
       "@types/react": "^16.4.6",
       "@types/react-dom": "^16.0.6",
